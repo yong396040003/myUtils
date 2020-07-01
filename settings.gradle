@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "自定义通用封装工具包"
